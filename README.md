@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there! I'm Vijayarama Rao Sirigiri
+#I'm Vijayarama Rao Sirigiri
 
 🚀 **AWS DevOps Engineer | Terraform | Kubernetes | CI/CD | Python Automation**
 
